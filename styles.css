@@ -1,0 +1,9 @@
+/* Pega el footer debajo */
+html {
+  position: relative;
+  min-height: 100%;
+}
+/* Margen por debajo para que el footer no tape el último contenido */
+body {
+  margin-bottom: 60px;
+}
